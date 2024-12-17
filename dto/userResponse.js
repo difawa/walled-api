@@ -6,6 +6,8 @@ class UserResponse {
     this.fullname = user.fullname;
     this.email = user.email;
     this.balance = user.balance;
+    this.typeofaccount = user.typeofaccount;
+    this.accountnumber = user.accountnumber;
   }
 }
 
